@@ -10,15 +10,16 @@ Key Features
     User-Friendly Interface: The command-line interface ensures simplicity and accessibility for users of all levels.
     Extensible: Developers can leverage and extend the calculator's functionality to suit specific requirements.
 
-Getting Started
+**Getting Started**
 
     Clone the repository: git clone https://github.com/bfg101/Mortgage-Calculator.git
     Navigate to the project directory: cd mortgage-calculator
     Compile and run: javac MortgageCalculator.java && java MortgageCalculator
 
-License
+**License**
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-Contributing
+
+**Contributing**
 
 We welcome contributions from the community. Feel free to submit issues, feature requests, or pull requests.
